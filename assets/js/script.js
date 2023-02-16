@@ -1,5 +1,14 @@
 "use strict"
 
+//homeTask
+// let string="Novrasta"
+// function reverseString(str) {
+
+//     return str.split("").reverse().join("");
+// }
+// console.log(reverseString(string));
+
+//classWork
 // let date=new Date();
 
 // console.log(date.getFullYear() + " " + date.getMonth() + 1) + " " + date.getHours() + " " + date.getMinutes();
@@ -301,3 +310,8 @@
 // }
 
 // console.log(findOddNums(nums));
+
+
+
+
+
